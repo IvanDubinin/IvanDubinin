@@ -11,7 +11,7 @@ In general worked with Angular framework and React library, faced with some Node
 </p>
 
 <p align='center'>
-   <a href="https://t.me/@IvanDubininAlexandrovich">
+   <a href="https://telegram.me/IvanDubininAlexandrovich">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
