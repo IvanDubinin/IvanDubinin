@@ -39,7 +39,7 @@ In general worked with Angular framework and React library, faced with some Node
 *   [appyoutube](https://github.com/IvanDubinin/appyoutube.github.io) - simulate youtube service partially
 *   [pokedex](https://github.com/IvanDubinin/final-project) - app (simple game) for catching pokemons
 *   [post with articles](https://github.com/IvanDubinin/PHP-MySQL) - affords to read articles grouped in Post. Also Register and Login in Admin panel for Update, Create and Delete articles. All datas stored in MySQL tables
-*   [shopping cart](https://github.com/IvanDubinin/Shopping_cart_js) - shopping cart, which demonstates cart service working: add, delete, increase and decrease quantity of products in cart, with calculating prices
+*   [shopping cart](https://github.com/IvanDubinin/Shopping_cart_js) - shopping cart, which demonstrates cart service working: add, delete, increase and decrease quantity of products in cart, with calculating prices
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/IvanDubinin/github-profile-views-counter">
