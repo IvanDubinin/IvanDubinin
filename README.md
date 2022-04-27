@@ -11,7 +11,7 @@ In general worked with Angular framework and React library, faced with some Node
 </p>
 
 <p align='center'>
-   <a href="https://t.me/joinchat/@IvanDubininAlexandrovich">
+   <a href="https://t.me/@IvanDubininAlexandrovich">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
@@ -37,8 +37,8 @@ In general worked with Angular framework and React library, faced with some Node
 
 *   [message-exchanger](https://github.com/IvanDubinin/message_exchanger) - provides possibility to create messages, create link to read message by other user. After reading the message automatically deleted.
 *   [appyoutube](https://github.com/IvanDubinin/appyoutube.github.io) - simulate youtube service partially
-*   [pokedex](https://github.com/IvanDubinin/final-project) - app (game)for catching pokemons
-*   [post with articles](https://github.com/IvanDubinin/PHP-MySQL) - afford to read articles grouped in Post. Also Register and Login in Admin panel for Update, Create and Delete articles. All datas stored in MySQL tables
+*   [pokedex](https://github.com/IvanDubinin/final-project) - app (simple game) for catching pokemons
+*   [post with articles](https://github.com/IvanDubinin/PHP-MySQL) - affords to read articles grouped in Post. Also Register and Login in Admin panel for Update, Create and Delete articles. All datas stored in MySQL tables
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/IvanDubinin/github-profile-views-counter">
