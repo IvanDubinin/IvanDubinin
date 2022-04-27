@@ -1,16 +1,47 @@
-### Hi there 👋
+# Hi, I'm Ivan 👋
+Frontend Developer with around 1 year of developing experience. I have good knowledge in frontend development on JavaScript.
+In general worked with Angular framework and React library, faced with some Node JS and PHP in my pet projects.
 
-<!--
-**IvanDubinin/IvanDubinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=IvanDubinin&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=IvanDubinin&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/IvanDubinin/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDubinin&layout=compact"/></a>
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+   <a href="https://t.me/joinchat/@IvanDubininAlexandrovich">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:ivan.a.dubinin@gmail.com'>ivan.a.dubinin@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Key points
+*   Have a specialized education in the speciality "Developer of Web and multimedia applications"
+*   Successfully completed Epam course "Javascript developer"
+*   English level - B2 (Upper-intermediate)
+*   Finished Laboratory trainings in EPAM company
+
+## 🛠 Technical Stack
+*   JavaScript, TypeSript languages
+*   React library, Angular framework, MySQL
+*   HTML5, CCS3, Bootsrap, Material UI, SASS
+*   BEM, Jira, Agile
+*   GitHub/GitLab
+*   Adobe Photoshop, Figma
+
+### My projects
+
+*   [message-exchanger](https://github.com/IvanDubinin/message_exchanger) - provides possibility to create messages, create link to read message by other user. After reading the message automatically deleted.
+*   [appyoutube](https://github.com/IvanDubinin/appyoutube.github.io) - simulate youtube service partially
+*   [pokedex](https://github.com/IvanDubinin/final-project) - app (game)for catching pokemons
+*   [post with articles](https://github.com/IvanDubinin/PHP-MySQL) - afford to read articles grouped in Post. Also Register and Login in Admin panel for Update, Create and Delete articles. All datas stored in MySQL tables
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/IvanDubinin/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+   </a>
+</div>
