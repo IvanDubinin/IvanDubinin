@@ -32,6 +32,7 @@ In general worked with Angular framework and React library, faced with some Node
 *   BEM, Jira, Agile
 *   GitHub/GitLab
 *   Adobe Photoshop, Figma
+*   Webpack
 
 ### My projects
 
