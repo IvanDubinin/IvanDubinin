@@ -11,7 +11,7 @@ In general worked with Angular framework and React library, faced with some Node
 </p>
 
 <p align='center'>
-   <a href="https://telegram.me/IvanDubininAlexandrovich">
+   <a href="https://telegram.me/DuIval">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
@@ -28,11 +28,12 @@ In general worked with Angular framework and React library, faced with some Node
 ## 🛠 Technical Stack
 *   JavaScript, TypeSript languages
 *   React library, Angular framework, MySQL
+*   Node.js, Express, MongoDB
 *   HTML5, CCS3, Bootsrap, Material UI, SASS
 *   BEM, Jira, Agile
 *   GitHub/GitLab
 *   Adobe Photoshop, Figma
-*   Webpack
+*   Webpack, Docker
 
 ### My projects
 
