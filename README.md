@@ -1,5 +1,5 @@
 # Hi, I'm Ivan 👋
-Frontend Developer with more then 1 year of developing experience. I have good knowledge in frontend development on JavaScript.
+Frontend Developer with more then 2 year of developing experience. I have good knowledge in frontend development on JavaScript.
 In general worked with Angular framework and React library, faced with some Node JS and PHP in my pet projects.
 
 <p align='center'>
